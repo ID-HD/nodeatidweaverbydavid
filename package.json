@@ -1,0 +1,19 @@
+{
+  "name": "nodeatidweaverbydavid",
+  "version": "0.0.1",
+  "description": "node at idweaver by david",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ID-HD/nodeatidweaverbydavid.git"
+  },
+  "author": "David Heylbroeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ID-HD/nodeatidweaverbydavid/issues"
+  },
+  "homepage": "https://github.com/ID-HD/nodeatidweaverbydavid#readme"
+}
