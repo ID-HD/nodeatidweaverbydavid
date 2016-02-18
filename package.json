@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ID-HD/nodeatidweaverbydavid/issues"
   },
-  "homepage": "https://github.com/ID-HD/nodeatidweaverbydavid#readme"
+  "homepage": "https://github.com/ID-HD/nodeatidweaverbydavid#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
